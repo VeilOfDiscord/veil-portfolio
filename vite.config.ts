@@ -8,5 +8,5 @@ export default defineConfig({
     react(),    
     tailwindcss()
   ],
-  base: "/veil-portfolio"
+  base: "/veil-portfolio/"
 })
