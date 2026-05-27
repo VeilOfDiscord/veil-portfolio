@@ -109,7 +109,7 @@ export const About = () => {
             <p className="">Status - Open to collaborate</p>
           </div>
           <a
-            href="../Resume.pdf"
+            href="../assets/Resume.pdf"
             download={"Nathaell_Avril_Leman_Resume.pdf"}
             className="flex gap-4 text-xl w-fit m-5 font-Rodin my-5 p-4 bg-neutral-900 hover:bg-[#EBD8A9] text-white rounded-xl group"
           >
